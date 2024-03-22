@@ -1,14 +1,16 @@
 # Bloxorx #
-This is a 3D game developed on top of a C++ framework based on OpenGL and SDL developed by javi.agenjo@gmail.com.   
+This is a simple 3D game developed on top of a C++ framework based on OpenGL and SDL.
+The game consists of moving a rectangle to a specific goal without falling. The game contains an editor where the player can create maps and add them to the existing levels.
 
-
+![screenshot](data/mainmenu.PNG)
+![screenshot](data/level1.PNG)
+![screenshot](data/editor.PNG)
 
 
 ## Framework ##
 
-The framework is a C++ layer on top of SDL and OpenGL to help create games or visual applications.
+The framework was developed by javi.agenjo@gmail.com and it's based on a C++ layer on top of SDL and OpenGL to help create games or visual applications.
 It only provides the basic GPU abstraction (Meshes, Textures, Shaders, Application).
-It has been used for many years in the Videogame's development courses I give at the Universitat Pompeu Fabra.
 
 It contains the basics to do something nice:
 - Mesh, Texture, Shader and FBO classes
@@ -35,10 +37,6 @@ and then just use the makefile:
 
 make
 
-## Feedback
---------
-
-You can write any feedback to javi.agenjo@gmail.com
 
 
 
