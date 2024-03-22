@@ -1,0 +1,105 @@
+TILE
+0.000000 0.000000 0.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+0.000000 0.000000 -12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+0.000000 0.000000 12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+12.500000 0.000000 12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+12.500000 0.000000 0.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+12.500000 0.000000 -12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+0.000000 0.000000 -25.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+12.500000 0.000000 -25.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+25.000000 0.000000 12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+25.000000 0.000000 0.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+25.000000 0.000000 -12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+25.000000 0.000000 -25.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+37.500000 0.000000 0.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+37.500000 0.000000 -12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+37.500000 0.000000 -25.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 -25.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 -12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 0.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+37.500000 0.000000 12.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 -37.500000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+50.000000 0.000000 -50.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+62.500000 0.000000 -50.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+75.000000 0.000000 -50.000000
+data/tile.obj
+data/ultimatealbedo.png
+TILE
+87.500000 0.000000 -50.000000
+data/tile.obj
+data/ultimatealbedo.png
+VICTORY_TILE
+100.000000 0.000000 -50.000000
+data/tile.obj
+data/ultimatealbedo.png
+END
