@@ -1,6 +1,12 @@
-# TJE Framework #
+# Bloxorx #
+This is a 3D game developed on top of a C++ framework based on OpenGL and SDL developed by javi.agenjo@gmail.com.   
 
-TJE Framework is a C++ layer on top of SDL and OpenGL to help create games or visual applications.
+
+
+
+## Framework ##
+
+The framework is a C++ layer on top of SDL and OpenGL to help create games or visual applications.
 It only provides the basic GPU abstraction (Meshes, Textures, Shaders, Application).
 It has been used for many years in the Videogame's development courses I give at the Universitat Pompeu Fabra.
 
